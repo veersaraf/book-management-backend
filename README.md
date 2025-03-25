@@ -21,7 +21,7 @@ The backend offers a RESTful API with endpoints for CRUD operations on books (`/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/book-management-backend.git
+   git clone https://github.com/veersaraf/book-management-backend.git
    ```
 2. Navigate to the project directory:
    ```sh
